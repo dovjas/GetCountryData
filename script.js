@@ -39,5 +39,10 @@ submitBtn.addEventListener('click',()=>{
         } else{
             result.innerHTML = `<h4>Please enter a valid country name </h4>`
         }
-    })
+    });
+});
+
+resetBtn.addEventListener('click',()=>{
+    countryInput.value = ''
+    document.location.reload()
 })
