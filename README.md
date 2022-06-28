@@ -1,3 +1,3 @@
 # GetCountryData
 
-Get Countries data from https://restcountries.com by using Fetch
+Get Country data from https://restcountries.com by using Fetch
